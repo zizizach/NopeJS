@@ -13,7 +13,7 @@ NopeJS is a lightweight, API-based rejection engine that serves up 500+ hilariou
 
 ## 🧪 Live Demo
 
-Try it out on [Vercel](https://nope-js.vercel.app/api/):
+Try it out on [Vercel](https://nope-js.vercel.app/):
 
 - `/excuse` → Returns a random excuse  
 - `/reject` → Returns a random rejection  
@@ -22,5 +22,5 @@ Try it out on [Vercel](https://nope-js.vercel.app/api/):
 Example:
 
 ```bash
-curl https://nope-js.vercel.app/api/no
+curl https://nope-js.vercel.app/no
 ```
