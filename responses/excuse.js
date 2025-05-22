@@ -11,7 +11,7 @@ module.exports = {
         "Node modules broke everything again.",
         "Version mismatch. Again."
     ],
-    "life": [
+    "default": [
         "My dog ate my homework.",
         "I overslept.",
         "The traffic was insane.",

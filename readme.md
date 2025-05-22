@@ -22,5 +22,5 @@ Try it out on [Vercel](https://nope-js.vercel.app/api/):
 Example:
 
 ```bash
-curl https://nope-js.vercel.app/api/excuse
+curl https://nope-js.vercel.app/api/no
 ```

@@ -18,7 +18,7 @@ const types = {
 };
 
 // Route: /api/:type
-app.get('/api/:type', (req, res) => {
+app.get('/:type', (req, res) => {
   const { type } = req.params;
   const style = req.query.style || 'default';
   const data = types[type];
