@@ -1,5 +1,5 @@
 module.exports = {
-  "formal": [
+  "default": [
         "Your request has been declined.",
         "We must respectfully say no.",
         "After review, we cannot proceed.",
@@ -8,7 +8,7 @@ module.exports = {
         "We're unable to accommodate your request.",
         "We regret to inform you: no.",
         "This proposal has been rejected.",
-        "It’s not approved.",
+        "It's not approved.",
         "The answer is negative."
     ],
     "funny": [
@@ -16,7 +16,7 @@ module.exports = {
         "Hard pass, buddy.",
         "Even my cat says no.",
         "LOL. No.",
-        "That’s a nope-shaped nope.",
+        "That's a nope-shaped nope.",
         "Try again never.",
         "404 Approval Not Found.",
         "This idea self-destructed on arrival.",
@@ -32,7 +32,7 @@ module.exports = {
         "Consider this a stylish rejection.",
         "I admire your confidence. It's still a no.",
         "Love the energy. Denied.",
-        "We don’t do that here.",
+        "We don't do that here.",
         "Keep dreaming."
     ],
     "brutal": [
@@ -44,19 +44,19 @@ module.exports = {
         "This was a bad idea to begin with.",
         "No. Don't bring this up again.",
         "Rejected with prejudice.",
-        "That’s a career-limiting suggestion.",
+        "That's a career-limiting suggestion.",
         "Please leave."
     ],
     "passive": [
         "Let me get back to you on that… never.",
-        "We’ll think about it. (We won’t.)",
+        "We'll think about it. (We won't.)",
         "Interesting idea. We'll sit on it.",
         "Thanks for the input. No action required.",
         "Pending indefinite review.",
-        "We’re putting that on the backlog (graveyard).",
+        "We're putting that on the backlog (graveyard).",
         "It's under consideration. Sort of.",
-        "We’ve tabled it. Permanently.",
-        "That’s above my pay grade.",
-        "Let’s not and say we did."
+        "We've tabled it. Permanently.",
+        "That's above my pay grade.",
+        "Let's not and say we did."
     ]
 };
